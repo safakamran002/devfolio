@@ -1,0 +1,251 @@
+{
+  "site": {
+    "title": "Safa Kamran - Spatial Data Scientist",
+    "logo": "SK",
+    "availability": "Available for work",
+    "footerBrand": "Safa Kamran",
+    "footerCopy": "2025 | Spatial Data Scientist | Helsinki"
+  },
+  "navigation": [
+    { "label": "About", "href": "#about" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "hero": {
+    "eyebrow": "Spatial Data Scientist and GIS Developer",
+    "name": {
+      "first": "Safa",
+      "last": "Kamran"
+    },
+    "description": "I build geospatial ML systems that turn urban mobility data into environmental insight. MSc at Aalto University, Finland.",
+    "tags": [
+      "Python",
+      "GeoPandas",
+      "PostGIS",
+      "SQL",
+      "Leaflet",
+      "OpenLayers",
+      "Flask",
+      "Django",
+      "AWS",
+      "Azure",
+      "ML"
+    ],
+    "actions": [
+      { "label": "Get in touch", "href": "#contact", "variant": "primary" },
+      { "label": "View work", "href": "#projects", "variant": "outline" }
+    ],
+    "statusCard": {
+      "label": "current status",
+      "items": [
+        {
+          "title": "Open To",
+          "text": "Spatial Data Scientist, GIS Developer, or Geospatial ML roles in Finland and Europe"
+        },
+        {
+          "title": "Also Exploring",
+          "text": "PhD opportunities in urban mobility, transport emissions, and spatial AI"
+        }
+      ],
+      "location": "Helsinki, Finland"
+    }
+  },
+  "summary": {
+    "sectionNumber": "01",
+    "title": "Summary",
+    "blocks": [
+      {
+        "title": "About",
+        "large": true,
+        "paragraphs": [
+          "I build geospatial ML systems that turn urban mobility data into environmental insight. My MSc thesis at Aalto University applied transfer learning to predict CO2 emissions from private transport, training on Espoo mobility data and successfully transferring models to Helsinki.",
+          "My technical stack: Python, GeoPandas, PostGIS, SQL, Leaflet, OpenLayers, Flask, Django, AWS, Azure. Day to day I work across the full geospatial data lifecycle, ingesting and cleaning large spatial datasets, building PostGIS databases, engineering spatial features, training and evaluating models, and delivering results through WebGIS interfaces."
+        ]
+      },
+      {
+        "title": "Open To",
+        "paragraphs": [
+          "Spatial Data Scientist, GIS Developer, or Geospatial ML roles in Finland and Europe."
+        ]
+      },
+      {
+        "title": "Also Exploring",
+        "paragraphs": [
+          "PhD opportunities in urban mobility, transport emissions, and spatial AI research."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "sectionNumber": "02",
+    "title": "Education",
+    "items": [
+      {
+        "degree": "Master of Science",
+        "school": "Aalto University",
+        "period": "2023 - 2025",
+        "field": "Geographic Information Science and Cartography"
+      },
+      {
+        "degree": "Bachelor of Engineering",
+        "school": "National University of Sciences and Technology (NUST)",
+        "period": "2018 - 2022",
+        "field": "Geographic Information Science and Cartography"
+      }
+    ]
+  },
+  "experience": {
+    "sectionNumber": "03",
+    "title": "Experience",
+    "items": [
+      {
+        "role": "Measurement Assistant",
+        "company": "Maanmittauslaitos, NLS Finland",
+        "period": "October 2024 - December 2024 | 3 months",
+        "bullets": [
+          "Executed high-precision geodetic measurements at the Nummela Standard Baseline using Vaisala interference comparator",
+          "Contributed directly to national EDM calibration infrastructure",
+          "Documented calibration procedures and measurement logs per NLS quality assurance protocols",
+          "Produced traceable records for national geodetic archives"
+        ]
+      },
+      {
+        "role": "Software Developer",
+        "company": "National University of Sciences and Technology (NUST)",
+        "period": "July 2022 - August 2023 | 1 year 2 months",
+        "bullets": [
+          "Designed and built backend data processing modules for internal research tools, reducing manual data handling steps in scientific workflows",
+          "Developed automated pipelines for ingesting and transforming structured datasets",
+          "Managed feature deployment from development through production",
+          "Supported integration of external data sources into internal systems"
+        ]
+      },
+      {
+        "role": "GIS Specialist",
+        "company": "Remote Sensing and GIS Team",
+        "period": "2021 - 2022",
+        "fullWidth": true,
+        "bullets": [
+          "Converted ground-truth datasets into structured geospatial layers for ongoing environmental monitoring and technical reporting",
+          "Produced verified GIS outputs, classified raster layers and vector feature datasets, for climate and terrain assessment",
+          "Documented spatial data processing workflows to support reproducibility and handover within the GIS team"
+        ]
+      }
+    ]
+  },
+  "techStack": {
+    "sectionNumber": "04",
+    "title": "Technical Stack",
+    "categories": [
+      {
+        "label": "Data and GIS",
+        "items": [
+          { "name": "Python", "level": 95 },
+          { "name": "GeoPandas", "level": 90 },
+          { "name": "PostGIS", "level": 85 },
+          { "name": "SQL", "level": 88 }
+        ]
+      },
+      {
+        "label": "Machine Learning",
+        "items": [
+          { "name": "Scikit-learn", "level": 85 },
+          { "name": "XGBoost", "level": 80 },
+          { "name": "Transfer Learning", "level": 78 },
+          { "name": "Random Forest", "level": 82 }
+        ]
+      },
+      {
+        "label": "WebGIS",
+        "items": [
+          { "name": "Leaflet", "level": 88 },
+          { "name": "OpenLayers", "level": 80 },
+          { "name": "QGIS", "level": 85 },
+          { "name": "ArcGIS", "level": 70 }
+        ]
+      },
+      {
+        "label": "Backend and Cloud",
+        "items": [
+          { "name": "Flask", "level": 80 },
+          { "name": "Django", "level": 72 },
+          { "name": "AWS", "level": 68 },
+          { "name": "Azure", "level": 65 }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "sectionNumber": "05",
+    "title": "Key Projects",
+    "items": [
+      {
+        "type": "MSc Thesis",
+        "icon": "GEO",
+        "title": "Transfer Learning for CO2 Emissions",
+        "org": "Aalto University | 2023-2025",
+        "description": "Applied transfer learning to predict CO2 emissions from private transport, training on Espoo mobility data and successfully transferring models to Helsinki. Combined large-scale OD data processing, H3 spatial indexing, and ensemble ML into a reproducible Python pipeline.",
+        "featured": true,
+        "tech": ["Python", "H3", "GeoPandas", "XGBoost", "Random Forest", "PostGIS"]
+      },
+      {
+        "type": "WebGIS",
+        "icon": "MAP",
+        "title": "Spatial Data Platform",
+        "org": "NUST Research | 2022-2023",
+        "description": "Designed and built backend data processing modules for internal research tools. Developed automated pipelines for ingesting and transforming structured geospatial datasets. Integrated external data sources into internal systems ensuring compatibility and integrity.",
+        "tech": ["Django", "PostGIS", "Leaflet", "Python", "PostgreSQL"]
+      }
+    ]
+  },
+  "consulting": {
+    "sectionNumber": "06",
+    "title": "Consulting",
+    "servicesTitle": "Consulting Services",
+    "services": [
+      "Mobility analysis",
+      "Environmental modeling",
+      "Spatial decision support"
+    ],
+    "backgroundTitle": "Professional Background",
+    "background": "Consult independently on mobility analysis, environmental modeling, and spatial decision support. Available for project-based collaboration with research institutions and private sector clients.",
+    "stats": [
+      {
+        "value": "3",
+        "label": "Years of Experience",
+        "sublabel": "Software development and GIS"
+      },
+      {
+        "value": "3",
+        "label": "Months at NLS",
+        "sublabel": "High-precision geodetic measurements"
+      },
+      {
+        "value": "1+",
+        "label": "Year at NUST",
+        "sublabel": "Software development"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's work together",
+    "subtitle": "Open to Spatial Data Scientist, GIS Developer, and Geospatial ML roles in Finland and Europe. Also interested in PhD opportunities in urban mobility and spatial AI.",
+    "items": [
+      {
+        "label": "Phone",
+        "value": "+358 417217044 (Mobile)",
+        "href": "tel:+358 417217044"
+      },
+      {
+        "label": "Email",
+        "value": "safakamran02@gmail.com",
+        "href": "mailto:safakamran02@gmail.com"
+      },
+      {
+        "label": "Location",
+        "value": "Helsinki, Finland"
+      }
+    ]
+  }
+}
